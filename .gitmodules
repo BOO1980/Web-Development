@@ -1,3 +1,6 @@
 [submodule "Web-Dev-Frameworks"]
 	path = Web-Dev-Frameworks
 	url = https://github.com/hayleyBillingham/Web-Dev-Frameworks.git
+[submodule "web-development-frameworks"]
+	path = web-development-frameworks
+	url = https://github.com/hayleyBillingham/web-development-frameworks.git
