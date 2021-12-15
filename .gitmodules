@@ -1,0 +1,3 @@
+[submodule "seo"]
+	path = seo
+	url = https://github.com/hayleyBillingham/seo.git
