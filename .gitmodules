@@ -1,0 +1,3 @@
+[submodule "browsers"]
+	path = browsers
+	url = https://github.com/hayleyBillingham/browsers.git
